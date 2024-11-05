@@ -12,3 +12,4 @@ View the executive summary here:
 ![Certificate](Executive%20Summary_Eriife.jpg) 
 
 View my project certificate here:
+![Certificate](FORAGE_completion_certificate.jpg)
