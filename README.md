@@ -9,6 +9,6 @@ I achieved the following while engaging in the tasks for each step in the Data S
 - I completed a concise executive summary for the Associate Director involved, delivering actionable insights for informed decision-making based on the analysis.
 - 
 View the executive summary here:
-
+![Certificate](Executive%20Summary_Eriife.jpg) 
 
 View my project certificate here:
