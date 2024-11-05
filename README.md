@@ -7,3 +7,8 @@ I achieved the following while engaging in the tasks for each step in the Data S
 - I conducted efficient data analysis using Python, including Pandas and NumPy libraries. Employed data visualization techniques for insightful trend interpretation.
 - I completed the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
 - I completed a concise executive summary for the Associate Director involved, delivering actionable insights for informed decision-making based on the analysis.
+- 
+View the executive summary here:
+
+
+View my project certificate here:
